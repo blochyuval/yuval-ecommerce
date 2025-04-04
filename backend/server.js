@@ -17,7 +17,7 @@ import cookieParser from 'cookie-parser';
 
 const PORT = configarations.PORT || 5000;
 
-const __direname = path.resolve()
+const __dirname = path.resolve()
 
 
 const app = express();
