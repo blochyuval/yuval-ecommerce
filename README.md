@@ -7,7 +7,7 @@ An eco-friendly full-stack clothing store featuring 7 categories, secure authent
 ## 📺 Demo
 
 
-![Demo](./frontend/public/gif/)
+![Demo](./gif/admin-dashboad.gif)
 
 
 

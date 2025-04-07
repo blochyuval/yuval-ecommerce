@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 
+gif
 .env
 
 # Editor directories and files
