@@ -22,34 +22,34 @@ An eco-friendly full-stack clothing store featuring 7 categories, secure authent
 
 ## 🧑‍💻 Tech Stack
 
-Frontend
+- Frontend
 React, Vite, Tailwind CSS, Zustand, Axios, React Router, Framer Motion, Stripe.js, Recharts, Lucide React
 
-Backend
+- Backend
 Node.js, Express, MongoDB (Mongoose), Redis, Cloudinary, Stripe, Bcrypt.js, JWT, Cookie-Parser, Dotenv
 
 
 ## 🔐 Environment Variables Needed
 
-PORT=
-MONGO_URI=
-UPSTASH_REDIS_URL=
-ACCESS_TOKEN_SECRET=
-REFRESH_TOKEN_SECRET=
-CLOUDINARY_CLOUD_NAME=
-CLOUDINARY_API_KEY=
-CLOUDINARY_API_SECRET=
-STRIPE_SECRETE_KEY=
-CLIENT_URL=
-NODE_ENV=
+- PORT=
+- MONGO_URI=
+- UPSTASH_REDIS_URL=
+- ACCESS_TOKEN_SECRET=
+- REFRESH_TOKEN_SECRET=
+- CLOUDINARY_CLOUD_NAME=
+- CLOUDINARY_API_KEY=
+- CLOUDINARY_API_SECRET=
+- STRIPE_SECRETE_KEY=
+- CLIENT_URL=
+- NODE_ENV=
 
 
 ## 📦 Installation
 
-From the root folder:
+- From the root folder:
 
-npm run build 
-npm run start (for production)
+- npm run build 
+- npm run start (for production)
 
 
 Thanks for checking it out! 🌿
