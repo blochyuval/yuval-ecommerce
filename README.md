@@ -22,11 +22,11 @@ An eco-friendly full-stack clothing store featuring 7 categories, secure authent
 
 ## 🧑‍💻 Tech Stack
 
-- Frontend
-React, Vite, Tailwind CSS, Zustand, Axios, React Router, Framer Motion, Stripe.js, Recharts, Lucide React
+Frontend
+- React, Vite, Tailwind CSS, Zustand, Axios, React Router, Framer Motion, Stripe.js, Recharts, Lucide React
 
-- Backend
-Node.js, Express, MongoDB (Mongoose), Redis, Cloudinary, Stripe, Bcrypt.js, JWT, Cookie-Parser, Dotenv
+Backend
+- Node.js, Express, MongoDB (Mongoose), Redis, Cloudinary, Stripe, Bcrypt.js, JWT, Cookie-Parser, Dotenv
 
 
 ## 🔐 Environment Variables Needed
@@ -46,10 +46,13 @@ Node.js, Express, MongoDB (Mongoose), Redis, Cloudinary, Stripe, Bcrypt.js, JWT,
 
 ## 📦 Installation
 
-- From the root folder:
-
+From the root folder:
 - npm run build 
 - npm run start (for production)
+
+## 🙏 Acknowledgments
+
+This project was built as part of my personal learning path. I want to thank the online developer community and the many tutorials, videos, and blog posts that helped guide and inspire me throughout the process of building this app.
 
 
 Thanks for checking it out! 🌿
